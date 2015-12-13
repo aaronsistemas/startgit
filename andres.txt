@@ -1,2 +1,4 @@
 Nombre: Andres Duque Hincpaie
 Tel:3015397117
+Edad: 18
+Estado Civil: Amarrado
