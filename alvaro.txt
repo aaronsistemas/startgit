@@ -1,2 +1,5 @@
 Nombre: Álvaro José Julio Beltrán
 Tel: 3003615422
+Ciudad: Medellin
+Edad: 28
+Estado Civil: Casado
